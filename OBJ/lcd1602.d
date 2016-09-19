@@ -1,0 +1,14 @@
+..\obj\lcd1602.o: ..\HARDWARE\LCD\lcd1602.c
+..\obj\lcd1602.o: ..\HARDWARE\LCD\lcd1602.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\sys.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\lcd1602.o: D:\Program_Files\MDK5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\lcd1602.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\lcd1602.o: ..\SYSTEM\delay\delay.h
+..\obj\lcd1602.o: ..\SYSTEM\usart\usart.h
+..\obj\lcd1602.o: D:\Program_Files\MDK5.14\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lcd1602.o: ..\HARDWARE\LCD\font.h
